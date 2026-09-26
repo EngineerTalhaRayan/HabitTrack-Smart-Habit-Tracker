@@ -5,7 +5,7 @@ import 'package:user_app/constants/app_storage_names.dart';
 import 'package:user_app/utils/utils_storage.dart';
 
 class UserServer {
-  static const String baseUrl = "https://www.rahlaty.cloud/api";
+  static const String baseUrl = "https://www.aboantarrrrrrrr/api";
 
   final Dio _dio = Dio(
     BaseOptions(
